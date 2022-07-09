@@ -40,7 +40,9 @@ pip install -r requirements.txt
 
 ## 运行
 
-1. 通过该链接(https://download.pytorch.org/models/resnet152-b121ed2d.pth)下载预训练模型ResNet-152，并将该模型放入pre_trained_model文件下
+1. 下载预训练模型ResNet-152，并将该模型放入pre_trained_model文件下
+
+   链接(https://download.pytorch.org/models/resnet152-b121ed2d.pth)
 
 2. 进行数据处理:
 
